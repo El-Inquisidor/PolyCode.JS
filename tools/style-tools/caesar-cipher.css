@@ -1,5 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 main {
-    width: 100px;
-    height: 300px;
-    background-color: blue;
+    width: 500px;
+    height: 250px;
+    background-color: rgb(79, 79, 219);
 }
